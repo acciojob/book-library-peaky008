@@ -1,5 +1,5 @@
 body{
-            background-color: #f8f8f8;
+            background-color: #ffffff;
             width:450px;
         }
         
@@ -18,12 +18,13 @@ body{
          left: 10px;
          text-align: center;      
         }
-        .book{
-            margin-top: 20px;
-/*             background-color: blue; */
+        .book{             
+            background-color:#f8f8f8 ;
+ 			 margin-bottom:20px;
+			
         }
         #heading{
-/*             background-color: aquamarine; */
+            background-color: #f8f8f8; 
             margin-bottom: 10px;
             text-align: center;
         }
@@ -31,5 +32,5 @@ body{
     position: relative;
     width: 350px;
     left: 50px;
-    background-color:  #ffffff;
+/*     background-color:  #ffffff; */
 }
