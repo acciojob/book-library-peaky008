@@ -2,16 +2,20 @@ body{
             background-color: #ffffff;
 /*             width:450px; */
         }
-        
+     p{
+		 color:rgb(119, 119, 119);
+	 }   
         .pic{
             position: relative;
             left: 70px;top:10px;width:0px;
-			
-			background:rgb(46, 204, 113); 
+			background:rgb(255, 255, 255);
+ 
         }
         .info_bk{
             position: relative;
-            left: 30px;
+            left: 10px;
+			background:#f8f8f8;
+/* 			background */
         }
         #price{
             width:290px;
@@ -37,5 +41,77 @@ body{
     width: 350px;
     left: 50px;
 	box-shadow:1px 2px 20px 20px #f8f8f8;
-/*     background-color:  #ffffff; */
+ 
 }
+/* body {
+background-color: #f8f8f8;
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+font-size: 16px;
+}
+.book-library {
+width: 800px;
+margin: 20px auto;
+background-color: #ffffff;
+border-radius: 4px;
+box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+}
+.book-library h1 {
+background-color: #f1f1f1;
+text-align: center;
+padding: 20px 0;
+font-size: 22px;
+border-bottom: 1px solid #e6e6e6;
+}
+.book-library .book {
+background-color: #f1f1f1;
+padding: 20px;
+margin: 20px 0;
+border-bottom: 1px solid #e6e6e6;
+}
+.book-library .book h2 {
+margin: 0;
+font-size: 18px;
+}
+.book-library .book p {
+margin: 0;
+font-size: 14px;
+color: #777777;
+}
+.book-library .book .price {
+background-color: #2ecc71;
+color: #ffffff;
+padding: 10px;
+text-align: center;
+border-radius: 4px;
+font-size: 14px;
+} */
+/* 
+<div class="book-library">
+<h1>Book Library</h1>
+<div class="book">
+<img src="https://www.bookgeeks.in/wp-content/uploads/2018/01/Spy-in-the-Amber-by-Manohar-Malgonkar.jpg"/>
+<h2>SPY IN THE AMBER</h2>
+<p>BY Manohar Malgonkar</p>
+<div class="price">Rs. 299</div>
+</div>
+<div class="book">
+<center><img src="https://www.bookgeeks.in/wp-content/uploads/2018/01/Sacred-Games-by-Vikram-Chandra.jpg"/></center>
+<h2>Sacred Games </h2>
+<p>by Vikram Chandra</p>
+<div class="price">Rs. 199</div>
+</div>
+<div class="book">
+<center><img src="https://www.bookgeeks.in/wp-content/uploads/2018/01/Byomkesh-Bakshi-by-Sharadindu-Bandyopadhyay.jpg"/></center>
+<h2>BYOMKESH BAKSHI </h2>
+<p>By Sharadindu Bandyopadhyay</p>
+<div class="price">Rs. 249</div>
+</div>
+</div>
+
+<script type="text/javascript" src="./script.js">
+</script>
+
+</body> 
+*/
