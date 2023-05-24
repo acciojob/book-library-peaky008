@@ -5,7 +5,9 @@ body{
         
         .pic{
             position: relative;
-            left: 70px;top:10px; 
+            left: 70px;top:10px;width:0px;
+			
+			background:#f8f8f8; 
         }
         .info_bk{
             position: relative;
