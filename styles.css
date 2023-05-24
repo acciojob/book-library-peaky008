@@ -1,14 +1,35 @@
-/*  your css code here. If applicable */
 body{
-	background:#f8f8f8;
-}
-.book-library{
-	background:#ffffff;
-	width:200px;
-}
- 
-.price{
-	width:100px;
-	background:#2ecc71;
-	text-align:center;color:white;
+            background-color: #f8f8f8;
+            width:450px;
+        }
+        
+        .pic{
+            position: relative;
+            left: 70px;top:10px; 
+        }
+        .info_bk{
+            position: relative;
+            left: 30px;
+        }
+        #price{
+            width:290px;
+            background-color: #2ecc71;
+         position: relative;
+         left: 10px;
+         text-align: center;      
+        }
+        .book{
+            margin-top: 20px;
+/*             background-color: blue; */
+        }
+        #heading{
+/*             background-color: aquamarine; */
+            margin-bottom: 10px;
+            text-align: center;
+        }
+.book-library{ 
+    position: relative;
+    width: 350px;
+    left: 50px;
+    background-color:  #ffffff;
 }
